@@ -15,8 +15,7 @@ jobs:
         server: files.000webhost.com
         username: projet-bts-sio-valentin
         password: VKag13p'
-        server-dir : /public_html/projet8/
-        exclude: |
+        server-dir : public_html/projet8/
           **/.git*
           **/.git*/**
           **/node_modules/**
