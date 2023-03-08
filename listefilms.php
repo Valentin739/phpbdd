@@ -20,5 +20,4 @@ echo $data['id']." ".$data['titre']." ".$data['genre']." ".$data['annee']."</br>
 
 ?>
 </br><a href="index.html">Retour à la page principale</a>
-</body>
-</html>
+</body
